@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Philosophy",
+      "description": "Explore the depths of philosophical thought."
+    },
+    {
+      "id": 2,
+      "name": "Meditation",
+      "description": "Practice mindfulness and find inner peace."
+    }
+  ]
+}
